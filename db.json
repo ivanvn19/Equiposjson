@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "id": 1 , 
+            "imgSrc": "https://i.ibb.co/mz10vJ4/001.png",
+            "tipo": "camara",
+            "modelo": "sony a 7 s 2",
+            "precio": 4200
+        },
+        {
+            "id":2,
+            "imgSrc":"https://i.ibb.co/bdvNK3M/002.png",
+            "tipo": "camara",
+            "modelo": "Sony a 6500",
+            "precio": 3800
+        },
+        {
+            "id":3,
+            "imgSrc": "https://i.ibb.co/MkLSVbp/003.png",
+            "tipo": "camara",
+            "modelo": "Canon R5",
+            "precio": 5000
+        },
+        {
+            "id":4,
+            "imgSrc": "https://i.ibb.co/L6xG7qK/004.png",
+            "tipo": "camara",
+            "modelo":"canon 5D mark 4",
+            "precio": 2800
+        },
+        {
+            "id":5,
+            "imgSrc":"https://i.ibb.co/JKTgwbz/005.png",
+            "tipo": "lente",
+            "modelo":"Canon 50mm",
+            "precio":  1500
+        },
+        {
+            "id":6,
+            "imgSrc": "https://i.ibb.co/M7NhNsm/006.png",
+            "tipo": "lente",
+            "modelo":"Canon 75-300mm",
+            "precio":  2500
+        },
+        {
+            "id":7,
+            "imgSrc": "https://i.ibb.co/NYf8pMX/007.png",
+            "tipo": "lente",
+            "modelo":"Sony 12-24mm",
+            "precio":  3800
+        },
+        {
+            "id":8,
+            "imgSrc":"https://i.ibb.co/HHcJ5bX/008.png",
+            "tipo": "lente",
+            "modelo":"Sony 400mm",
+            "precio":  10000
+        },
+        {
+            "id":9,
+            "imgSrc":"https://i.ibb.co/pdZC7Wf/009.png",
+            "tipo": "microfono",
+            "modelo":"Rode link",
+            "precio":  2500
+        },
+        {
+            "id":10,
+            "imgSrc":"https://i.ibb.co/FxzF8NC/010.png",
+            "tipo": "microfono",
+            "modelo":"Rode Wirless",
+            "precio": 3000
+        },
+        {
+            "id":11,
+            "imgSrc":"https://i.ibb.co/qy2VpsQ/011.png",
+            "tipo": "microfono",
+            "modelo":"Rode video",
+            "precio": 2000
+        },
+        {
+            "id":12,
+            "imgSrc":"https://i.ibb.co/C6fCqMh/012.png",
+            "tipo": "microfono",
+            "modelo":"Rode video micro",
+            "precio": 1200
+        },
+        {
+            "id":13,
+            "imgSrc":"https://i.ibb.co/J5VmPS2/013.png",
+            "tipo": "trípode",
+            "modelo": "Manfrotto Befree 3",
+            "precio": 2000
+        },
+        {
+            "id":14,
+            "imgSrc":"https://i.ibb.co/CbV2y7S/014.png",
+            "tipo": "trípode",
+            "modelo": "Benrro KH25",
+            "precio":  2500
+        },
+        {
+            "id":15,
+            "imgSrc":"https://i.ibb.co/BZtqM69/015.png",
+            "tipo": "trípode",
+            "modelo": "Benrro TMA 38",
+            "precio":  2000
+        },
+        {
+            "id":16,
+            "imgSrc":"https://i.ibb.co/TM1Tzw4/016.png",
+            "tipo": "trípode",
+            "modelo": "Manfrotto 504",
+            "precio":  3000
+        }
+
+    ]
+}
